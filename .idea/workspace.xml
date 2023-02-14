@@ -4,13 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="89addbdb-785f-49fc-bd1b-7e3c2a961dd7" name="Changes" comment="django_learn">
+    <list default="true" id="89addbdb-785f-49fc-bd1b-7e3c2a961dd7" name="Changes" comment="django_learn2">
+      <change afterPath="$PROJECT_DIR$/web_app/products/templates/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/web_app/db.sqlite3" beforeDir="false" afterPath="$PROJECT_DIR$/web_app/db.sqlite3" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/web_app/products/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/web_app/products/urls.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web_app/products/admin.py" beforeDir="false" afterPath="$PROJECT_DIR$/web_app/products/admin.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/web_app/products/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/web_app/products/views.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/web_app/web_app/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/web_app/web_app/settings.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/web_app/web_app/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/web_app/web_app/urls.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -21,6 +20,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Python Script" />
+        <option value="HTML File" />
       </list>
     </option>
   </component>
@@ -35,13 +35,14 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;ASKED_SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "DefaultHtmlFileTemplate": "HTML File",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\Saif\PycharmProjects\django_project" />
@@ -156,7 +157,21 @@
       <option name="project" value="LOCAL" />
       <updated>1675151430960</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="django_learn2">
+      <created>1676115485882</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1676115485882</updated>
+    </task>
+    <task id="LOCAL-00006" summary="django_learn2">
+      <created>1676115503348</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1676115503348</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -172,6 +187,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="django_learn" />
-    <option name="LAST_COMMIT_MESSAGE" value="django_learn" />
+    <MESSAGE value="django_learn2" />
+    <option name="LAST_COMMIT_MESSAGE" value="django_learn2" />
   </component>
 </project>
